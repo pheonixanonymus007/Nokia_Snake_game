@@ -51,7 +51,7 @@ def game():
     game_exit = False
     game_over = False
     snake_x = 45 #lenghth of the snake 
-    snake_y = 55 
+    snake_y = 55 #width of the snake
     velocity_x = 0
     velocity_y = 0
     init_velocity = 5
